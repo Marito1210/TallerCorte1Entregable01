@@ -1,9 +1,12 @@
+body{
+    background-color:rgb(235, 206, 235);
+}
 ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
     list-style-type: none;
-    background-color: #a19e9e;
+    background-color: #8c5d88;
   }
   
   li {
@@ -18,7 +21,7 @@ ul {
   }
   
   li a:hover {
-    background-color: #3c3b3a;
+    background-color: #ef8615;
   }
 
   li b {
@@ -28,8 +31,8 @@ ul {
     text-decoration: none;
   }
 
-  .activo {
-    background-color: #565655;
+  .aaa {
+    background-color: #d662c3;
   }
 
   .derecha {
@@ -38,7 +41,7 @@ ul {
 
   .buscador {
     height: 23px;
-    border: 2px solid #817f7d;
+    border: 2px solid #c22d90;
     border-radius: 5px;
   }
 
@@ -46,22 +49,19 @@ ul {
     display: inline-block;
     padding: 7px 10px;
     text-align: center;
-    border: 1px solid #131313;
+    border: 1px solid #83327c;
     border-radius: 5px;
     cursor: pointer;
-    background-color: #636262;
+    background-color: #f08dcf;
     color: white;
   }
   
-  button:hover {
-    background-color: #2f2e2d;
-  }
 
   .miJumbo {
     margin-top: 1rem;
     margin-bottom: 1rem;
     padding: 32px 16px;
-    background-color: #e9ecef;
+    background-color: #dfa4a4;
     border-radius: 0.5rem;
     text-align: center;
   }
